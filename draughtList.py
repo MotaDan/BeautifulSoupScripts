@@ -5,14 +5,14 @@ import csv
 r = requests.get('http://www.publichousefl.com/')
 tphsoup = BeautifulSoup(r.text, 'lxml')
 
-draftList = tphsoup.find(id='pu3025')
+draughtList = tphsoup.find(id='pu3025')
 
 with open('draughtList.csv', 'w', newline='') as f:
     fileWriter = csv.writer(f)
     
     beers = []
-    for beer in draftList.find_all('p'):
-        beers.append(beer.string)#.strip().lstrip('~-'))
+    for beer in draughtList.find_all('p'):
+        beers.append(beer.string.strip().lstrip('~-'))
     
     fileWriter.writerow(beers)
     
