@@ -1,0 +1,576 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="1553" source="theGamesDB.net">
+		<path>./Castlevania - Dracula X (USA).zip</path>
+		<name>Castlevania: Dracula X</name>
+		<desc>In Transylvania, people lived in fear of the evil Count Dracula. The ultimate embodiment of evil, Dracula swept his dark hand over the land, making the people mere sheep for his thirst for blood. But when a young woman named Sonia Belmont came forth to confront him, he made a horrible mistake: he underestimated her. Thus, the battle between Dracula and the Belmont family began.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Castlevania - Dracula X (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19950905T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="1747" source="theGamesDB.net">
+		<path>./Death and Return of Superman, The (U).zip</path>
+		<name>The Death and Return of Superman</name>
+		<desc>Brace yourself for a hard-hitting fight to the finish that lets you relive the classic DC comic book series! As Superman, fight for your life against mighty Doomsday, the vile distributor of death and destruction! Then, control the destiny of the four Supermen - each claiming to be the one, true Superman! Explode through 10 levels of super-powered battles and fly at furious speeds - until only the real Superman is left standing!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Death and Return of Superman, The (U)-image.jpg</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>SunSoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game id="1255" source="theGamesDB.net">
+		<path>./Chrono Trigger (U) [!].zip</path>
+		<name>Chrono Trigger</name>
+		<desc>The millennium. A portal is opened. The chain of time is broken. A young man is transported into the past, altering the course of history and the outcome of the future. He has to find his way home, but first he must travel to the outer edges of time to repair the world's chronology. On the way he encounters strange friends and foes, utilizes incredible devices and vehicles, and penetrates and neutralizes the fortresses of the past, present, and future. A paradox has been created. If he does not restore the order of time, nothing will ever be the same. He is the one who will become a hero. He is Crono.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Chrono Trigger (U) [!]-image.jpg</image>
+		<rating>0.82</rating>
+		<releasedate>19950311T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game id="131" source="theGamesDB.net">
+		<path>./Donkey Kong Country (USA).zip</path>
+		<name>Donkey Kong Country</name>
+		<desc>Madness and Mayhem in this 3-D Gorilla Thriller!
+
+Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong's quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country (USA)-image.jpg</image>
+		<rating>0.80952</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="3557" source="theGamesDB.net">
+		<path>./Dragon Ball Z - Chou Gokuuden - Kakusei Hen (Japan).zip</path>
+		<name>Dragon Ball Z: Super Goku Den - Kakusei-Hen</name>
+		<desc>Super Gokuden: Kakusei-Hen follows the story of Goku from his fight with Piccolo at the 23rd World Martial Arts Tournament in the Piccolo Jr. Saga to his final battle with Frieza after Goku had reached the Super Saiyan state in the Frieza Saga. Gohan is also playable in the game. In this game, like its predecessor, the characters are seen fighting by their side.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon Ball Z - Chou Gokuuden - Kakusei Hen (Japan)-image.jpg</image>
+		<releasedate>19950922T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game id="1525" source="theGamesDB.net">
+		<path>./Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).zip</path>
+		<name>Donkey Kong Country 2: Diddy's Kong Quest</name>
+		<desc>O.K. kid, wipe that drool off your chin and listen up if you really want to learn something about this game. Sure, it's got newfangled computer graphics and what Diddy calls stereo sound that "rocks heavily and with little resistance!" BUT, the game play? Well, they FINALLY added some proper challenge to the game - a snap for me of course. AND THE STORY? You sure ask a lot of questions, kid! Kaptain K. Rool and his cruelest cut-throat Kremlings have kidnapped that flea-bitten ape Donkey Kong. I figured I'd rescue him when the little pip-squeak DIDDY pops up along with his girlfriend, and they head off fixin' to prove themselves heroes or something. Come to think of it, I haven't laid eyes on those two for quite a while. I just may have to help them out after all!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)-image.jpg</image>
+		<rating>0.8333299999999999</rating>
+		<releasedate>19951120T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="1800" source="theGamesDB.net">
+		<path>./Dragon Ball Z - Hyper Dimension (Japan).zip</path>
+		<name>Dragon Ball Z: Hyper Dimension</name>
+		<desc>Surpassing the original!
+Battle in three dimensions as the legend continues with more Dragon Ball Z fights! For the first time, Vegito appears and is ready to fight! The fights are more intense than ever, and the battle fields go up, down, right and left! Force your enemies into the ground. THIS IS HYPER DIMENSION!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon Ball Z - Hyper Dimension (Japan)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19960329T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game id="1583" source="theGamesDB.net">
+		<path>./EarthBound (USA).zip</path>
+		<name>EarthBound</name>
+		<desc>Intergalactic terror stikes the small town of Onett as a blazing extraterrestrial object crashes in the night! The earth now faces imminent destruction by the universal evil threat known as Giygas! Armed with a cracked baseball bat, a cookie and an ATM card, a courageous boy named Ness vows to save the planet from hideous destruction. He must first find his heroic companions, Paula, Jeff and Poo. Will Ness succeed in his attempts to ambush countless frightening monsters as he travels? The ultimate test lies in the impending encounter with the all powerful Giygas!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/EarthBound (USA)-image.png</image>
+		<rating>0.7571399999999999</rating>
+		<releasedate>19940827T000000</releasedate>
+		<developer>Ape Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game id="10779" source="theGamesDB.net">
+		<path>./F-ZERO (U) [!].zip</path>
+		<name>FZero</name>
+		<desc>The future of racing is here! F-ZERO, an intergalaxtic Grand Prix, uses machines that weigh more than a ton, reach dash speeds of over 500km/h and hover a mere twelve inches off the ground! Choose from the heroic Captain Falcon, or the suave, Dr. Stuart. Need more choices? Then try the sly alien, Pico or the not-so-honest Samurai Goroh, and race for intergalactic fame and fabulous fortune in the F-ZERO Grand Prix.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/F-ZERO (U) [!]-image.jpg</image>
+		<rating>0.79167</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game id="1286" source="theGamesDB.net">
+		<path>./Final Fantasy II (USA).zip</path>
+		<name>Final Fantasy II</name>
+		<desc>The fourth entry in the Final Fantasy series was released as Final Fantasy II in the West, because the second and the third game were not released there at the time. The game is a Japanese-style RPG with top-down world map navigation, automatic leveling up, and random enemy encounters. The player can freely roam an overworld containing several towns and dungeons. A menu-based system allows the player to outfit each character with equipment and up to two—often disposable—items for battle. Magic spells are assigned to the character from the item menu, and certain spells, such as "Cure", can be used outside of battle.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fantasy II (USA)-image.jpg</image>
+		<rating>0.66667</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game id="83" source="theGamesDB.net">
+		<path>./Final Fantasy III (USA).zip</path>
+		<name>Final Fantasy III</name>
+		<desc>Ages ago, evil beings created powerful creatures called Espers, and unleashed them against each other. The resulting battles left their world a smoldering rubble. Legend has it, the Espers destroyed themselves and most of humanity. Magic disappeared forever. Centuries have passed and a rational world now exists with Espers living only in myths, until one frozen solid since the ancient wars is unearthed. Suddenly, there are reports of magical attacks on civilians. Imperial Commandos launch raids using magic-powered MagiTek weapons. Magic is obviously alive and the world is in danger again. Who or what is behind the rediscovery and redeployment of this legendary power? What chaotic plans exists that will wreak havoc on this orderly world?</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fantasy III (USA)-image.jpg</image>
+		<rating>0.73</rating>
+		<releasedate>19940402T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game id="3203" source="theGamesDB.net">
+		<path>./Jurassic Park (USA) (Rev A).zip</path>
+		<name>Jurassic Park</name>
+		<desc>HUNT AND BE HUNTED!
+
+If the movie shook you, Ocean’s REAL 3-D graphics will blow you away!
+
+This is in-your-face, eyeball-to-eyeball, full-motion 3-D. We’re going to put you closer to the main attractions than ever before possible. So close, that when you find yourself staring into the flared nostrils of a famished raptor, you can almost smell his breath.
+
+Play the greatest game of all time: Jurassic Park in 3-D.
+
+Enjoy your stay!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Jurassic Park (USA) (Rev A)-image.jpg</image>
+		<rating>0.75</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="3208" source="theGamesDB.net">
+		<path>./Kirby's Dream Land 3 (USA).zip</path>
+		<name>Kirby's Dream Land 3</name>
+		<desc>That mean old King Dedede is at it again! He's causing his mischief and Dreamland's in trouble! Kirby, the resident hero of Dreamland, sets out to teach Dedede a lesson, this time with the help of many of his good friends!
+
+But wait! Something's wrong! Dedede doesn't seem to be himself...
+
+Looks like Kirby has to stop Dedede and find out what is wrong with him! It almost seems like something's controlling him...</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Kirby's Dream Land 3 (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19971101T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game id="1318" source="theGamesDB.net">
+		<path>./Legend of Zelda, The - A Link to the Past (USA).zip</path>
+		<name>The Legend of Zelda: A Link to the Past</name>
+		<desc>Venture back to Hyrule and an age of magic and heroes.  The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom.  Only you can prevent his evil plot from shattering the land of Hyrule.
+
+In your quest, you’ll venture into twisting mazes, dungeons, palaces and shadowy forests.  Test your mettle with mighty swords and magical weapons.  Or heft a boulder and hurl it at your enemies.  If the going gets tough, dive into a river--you can swing to escape!  Learn powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.
+
+This exciting Super NES sequel to the Legend of Zelda and The Adventure of Link uses 16-bit power to create a quest so colorful and detailed you don’t just play it, you live it!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Legend of Zelda, The - A Link to the Past (USA)-image.jpg</image>
+		<rating>0.81333</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="1526" source="theGamesDB.net">
+		<path>./Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).zip</path>
+		<name>Donkey Kong Country 3: Dixie Kong's Double Trouble!</name>
+		<desc>Monkey Mayhem Lives On!
+
+Kiddy Kong is a portly primate toddler with incredible power and agility! He teams up with Dixie Kong to stop the ever-present army of Kremlings. The game play and ACM graphics just keep getting better in this visually stunning installment in one of the most popular video game series of all time!
+
+Combining their unique abilities as they throw each other into action, Dixie Kong and Kiddy Kong set off to rescue Diddy Kong and Donkey Kong. Collect tons of treasure, grab billions of bananas and find more secret stuff than you've ever seen (or not seen) as you set off on the greatest DKC adventure yet! The final showdown with KAOS takes place in a cliff-top laboratory at the End of the World. It could get seriously ugly. Monkey mayhem lives on in this exotic island adventure!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)-image.jpg</image>
+		<rating>0.8428599999999999</rating>
+		<releasedate>19961122T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="143" source="theGamesDB.net">
+		<path>./Mega man X (USA).zip</path>
+		<name>Mega Man X</name>
+		<desc>Near the end of his life, Dr. Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger as well as great possibilities. Fearful of the possible consequences of unleashing his creation on the world, Dr. Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to decide his fate...
+
+Released from the capsule by Dr. Cain, "X" is born into the world of the future where the robot rebellions are a thing of the past. But when Dr. Cain tries to implement Dr. Light's designs into a new series of Reploids, something goes hideously wrong. Now the future lies on the brink of destruction and a new Mega Man must emerge to face Sigma and his forces before the human race is wiped from the planet!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mega man X (USA)-image.jpg</image>
+		<rating>0.78</rating>
+		<releasedate>19940121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="3226" source="theGamesDB.net">
+		<path>./Mighty Morphin Power Rangers (USA).zip</path>
+		<name>Mighty Morphin Power Rangers</name>
+		<desc>Don't look now, because her Hideousness is back and she's meaner and uglier than ever. This time Rita Repulsa is out to pulverize the Power Rangers once and for all and she's brought all of her nasty friends along to do the dirty work. But, Jason, Trinl, Billy, Kimberly, and Zack are at their morphing best with the awesome power of the Super NES machine on their side. Incredible graphics, amazing sound, and unbeatable action make this battle of good and evil an instant SNES classic.
+
+The game features seven challenging levels of play ending with breathtaking, all-out battles against Rita's most fearsome henchmen including Bones, Eye Guy, and many more! Only the power of the Super NES can put all of the characters and excitement of the phenomenal hit TV series right at your fingertips. So what are you waiting for? Morph into action now with the Mighty Morphin Power Rangers™.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mighty Morphin Power Rangers (USA)-image.jpg</image>
+		<rating>0.55</rating>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Bandai</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game id="997" source="theGamesDB.net">
+		<path>./Earthworm Jim (USA).zip</path>
+		<name>Earthworm Jim</name>
+		<desc>A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.
+
+Back on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.
+
+Jim overhears the Queen's plans for the suit and decides to meet this Princess...</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Earthworm Jim (USA)-image.jpg</image>
+		<rating>0.6333300000000001</rating>
+		<releasedate>19940802T000000</releasedate>
+		<developer>Shiny Entertainment, Inc.</developer>
+		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5612" source="theGamesDB.net">
+		<path>./Mighty Morphin Power Rangers - The Fighting Edition (USA).zip</path>
+		<name>Mighty Morphin Power Rangers: The Fighting Edition</name>
+		<desc>Get ready to rock your world with the Mighty Morphin Power Rangers Fighting Edition. A three mode, smashing, bashing, monster trashing no-holds barred slugfest. This one-on-one two player simultaneous fighting game features your favourite Power Zord and a host of evil meanies. The Thunder Megazord, the Shogun Megazord, the Ninja Megazord, Lord Zedd, Goldar, and many more compete for total galactic supremacy in the mother of all battles. When the dust clears, only one will remain standing - who will be crowned the mightiest, morphiest warrior in the universe?</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mighty Morphin Power Rangers - The Fighting Edition (USA)-image.png</image>
+		<releasedate>19950915T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game id="2896" source="theGamesDB.net">
+		<path>./Earthworm Jim 2 (U) [!].zip</path>
+		<name>Earthworm Jim 2</name>
+		<desc>Two times two is four! Too much to list, but keep reading:
+
+From Evil the Cat's Circus of the Scars' to the planet of Meat, join Jim on a madcap chase across the galaxy. Saving cows, thwarting lawyers and outsmarting Psy-Crow are all in a day's work for Jim. Are you up to the challenge? Can you handle the awesome new weapon? Excellent! Then stop reading this. Take it up to the front counter and try it at home! Trust no one play it yourself... or EAT DIRT!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Earthworm Jim 2 (U) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19960125T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Playmates</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="3131" source="theGamesDB.net">
+		<path>./Mighty Morphin Power Rangers - The Movie (USA).zip</path>
+		<name>Mighty Morphin Power Rangers: The Movie</name>
+		<desc>The Power Rangers stripped of the Mighty Morphin Powers and forced to flee the earth? Rita Repsula and Lord Zedd over whelmed by an evil far greater than their combined nastiness? The Command Centre totally obliterated and Zordon on the brink of death? The fate of the world in the slimey hands of Ivan Ooze, the most sinister monster the universe has ever seen? Could this be a bad dream? Don't count on it. It all happens in the Morphinominal Mighty Morphin Power Rangers the Movie! And now, you can battle Ivan Ooze, the vilest villain in Nintendo history and a whole host of his mean and ugly minions in this hyper action, seven levels, no holds barred brawl featuring the eye popping graphics and ear pounding sounds of the Super NES. So, morph into action and lead the Power Rangers on to their greatest victory.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mighty Morphin Power Rangers - The Movie (USA)-image.jpg</image>
+		<rating>0.45</rating>
+		<releasedate>19950630T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Bandai</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="5821" source="theGamesDB.net">
+		<path>./Power Rangers Zeo - Battle Racers (USA).zip</path>
+		<name>Power Rangers Zeo: Battle Racers</name>
+		<desc>In this racing title based in the Zeo season of world-famous television series Power Rangers, players are allowed to select among the six Zeo Rangers (Pink, Yellow, Red, Blue, Green, Gold) or their enemies (King Mondo, Cog Soldier) to compete in a head-to-head circuit challenge along 16 race courses divided by 5 Tracks.
+
+Each pilot has different attribute levels for Acceleration, Speed and Grip, providing a more balanced competition. Besides several obstacles and speed energizers scattered by the courses, players can attack opponents by firing Blasters (a la Super Mario Kart special items) at your adversaries; the limit is 5 Blasters per race except by Cog Soldier's infinite Blaster amount.
+
+Along with 1-Player game modes (Race, Time Trial and VS CPU), the game also offers 2-Player split-screen gameplay through Race and 2P VS plus 3 alternative modalities: Point Race, where players must to race over objects to earn points; Bumper Chase, with the main objective to ram the opponent off the course; and Blaster Master, a Life Energy-based deathmatch.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Power Rangers Zeo - Battle Racers (USA)-image.jpg</image>
+		<releasedate>19960917T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Bandai</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game id="2826" source="theGamesDB.net">
+		<path>./Mortal Kombat (USA).zip</path>
+		<name>Mortal Kombat</name>
+		<desc>PREPARE YOURSELF...
+
+The #1 arcade hit is here: from Sub-Zero, Rayden and the rest of the Kombat Warriors to the grueling endurance and intense mirror matches! Execute bone-shattering combos and ferocious finishing moves! Defeat the half human dragon Goro, and destroy the shape-changing Shang Tsung to become the Supreme Mortal Kombat Warrior!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mortal Kombat (USA)-image.jpg</image>
+		<rating>0.65</rating>
+		<releasedate>19930913T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game id="2823" source="theGamesDB.net">
+		<path>./Mortal Kombat II (USA).zip</path>
+		<name>Mortal Kombat II</name>
+		<desc>Following his failure to defeat to Liu Kang in the first Mortal Kombat game, the evil sorcerer Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and even restores Tsung's youth. He then extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The new tournament is much more dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will allow him to subdue Earthrealm.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mortal Kombat II (USA)-image.jpg</image>
+		<rating>0.68571</rating>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game id="1253" source="theGamesDB.net">
+		<path>./Secret of Mana (U) [!].zip</path>
+		<name>Secret of Mana</name>
+		<desc>A young boy unearths an ancient sword, disgracing his village and unleashing a curse. Exiled from his hometown, he must travel to the ends of the earth to mend his mistake. Allies and Elementals will aid him in his fight against the Empire and the long-forgotten power they plan to unleash.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Secret of Mana (U) [!]-image.jpg</image>
+		<rating>0.82941</rating>
+		<releasedate>19930806T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+	</game>
+	<game id="3266" source="theGamesDB.net">
+		<path>./Spider-Man &amp; Venom - Maximum Carnage (USA).zip</path>
+		<name>Spider-Man &amp; Venom: Maximum Carnage</name>
+		<desc>Only one maniacal madman can force Spider-Man to unite with his sinister, arch-nemesis Venom’: CARNAGE’! His deadly rampage is tearing New York City apart! Only wild web-slinging maneuvers, crushing combat moves and Super Hero’ allies can save the city from total obliteration. It's maximum mayhem! It's Maximum Carnage’! Paint the town red!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Spider-Man &amp; Venom - Maximum Carnage (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940904T000000</releasedate>
+		<developer>Software Creations</developer>
+		<publisher>LJN</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="5871" source="theGamesDB.net">
+		<path>./Spider-Man and the X-Men in Arcade's Revenge (USA).zip</path>
+		<name>Spider-Man &amp; X-Men: Arcade's Revenge</name>
+		<desc>Spider-Man and his mutant pals need your help to escape from Arcade's diabolical amusement park - battling killer clowns, hungry piranhas, lethal doom balls and deadly robot replicas of super-villains like Carnage and Juggernaut! Will Spidey's webs, Wolverine's claws, Gambit's energy cards, Storm's lightning bolts and Cyclops' optic blasts mean GAME OVER for Arcade? That depends on YOU!!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Spider-Man and the X-Men in Arcade's Revenge (USA)-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Software Creations</developer>
+		<publisher>LJN</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="1730" source="theGamesDB.net">
+		<path>./Star Fox (USA).zip</path>
+		<name>Star Fox</name>
+		<desc>Lead the Star Fox Team to Victory!
+
+In the distant Lylat star system, imagine yourself at the controls of a futuristic, heavily armed, space fighter - Arwing.
+
+Lead the counter-attack on an invasion force of hundreds of alien tanks, fighter ships, laser gun emplacements and super battleships.  Maneuver at warp speed through fog-enshrouded canyons, dense asteroid belts and waves of the enemy's best defense.  You must use skill and cunning to bring the fight to the enemy's home planet Venom and smash the Core Brain for victory!
+
+* The Super FX micro chip is on-board for fluid game control and special effects previously unavailable in home video games!  The action explodes from all directions in realistic, real-time, three dimensions.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Star Fox (USA)-image.jpg</image>
+		<rating>0.56667</rating>
+		<releasedate>19930221T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game id="1308" source="theGamesDB.net">
+		<path>./Super Castlevania IV (USA).zip</path>
+		<name>Super Castlevania IV</name>
+		<desc>A century of Transylvanian tranquility is about to come to a shocking end. Once again the mortifying screams of helpless villagers shake the ground as they huddle against new nightmarish horrors unleashed by the Duke of Darkness, Count Dracula. And this time he has a tombstone with your name on it, Simon Belmont.
+You must descend into Castle of the Undead and its gruesome ground, accompanied by the most chilling sound effects to ever tingle your spine. Inside, a freshly dug 11 levels maze features the treacherous Terrace of Terror, the dangerous Rotating Dungeon, the Sunken Ruins of Lost Spirits, torture chambers and creature filled caves. Use your whip like a grappling hook and swing past hundreds of traps and a host of ghost freaks, living corpses and hidden goblins. All while dodging or destroying the unpredictable spitting lizards, carnivorous coffins, and more.
+Find the concealed weapons needed to defeat everything from eerie phantoms to haunted furniture. Then prepare to find yourself face-to-thing with hideous torments like the Tongue Lasher, the Darkest Knight, the Bone-Afide Horseman and the Granite Crusher. When your nerves get shot, use your password and take a breather. But forge on, Simon Belmont, because if you though Dracula was down for the count, he's only just begun to fright!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Castlevania IV (USA)-image.jpg</image>
+		<rating>0.73846</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="2538" source="theGamesDB.net">
+		<path>./Street Fighter II Turbo - Hyper Fighting (USA).zip</path>
+		<name>Street Fighter II Turbo</name>
+		<desc>Feel the Need for Speed!
+
+They're back and they're badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you've mastered it all, crank it up a notch and go TURBO!
+
+Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo - Hyper Fighting (USA)-image.jpg</image>
+		<rating>0.76667</rating>
+		<releasedate />
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game id="41" source="theGamesDB.net">
+		<path>./Super Mario Kart (USA).zip</path>
+		<name>Super Mario Kart</name>
+		<desc>The Super Mario GoKart Park is open for tons of racing fun!  Hit the track with Mario, Luigi, Yoshi and the Princess.  Get tough and lock fenders with Donkey Kong, Jr. and Bowser.  Even Toad and Koopa Troopa will mix it up in an all-out quest for the Gold Cup!  Race head-to-head with a friend or challenge the computer in great, split-screen, Mode 7 graphics.
+
+Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle Mode!  In four different maze-like courses you’ll use Koopa Shells, Banana Peels, Super Stars and other wacky weapons to burst your opponent's target balloons and triumph!
+
+* 2 games in 1 - Mario Grand Prix and Battle Mode
+* 8  Familiar Characters
+* 20 Different Tracks
+* 3 Different Skill Levels
+* Battery-backed memory saves your best times!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario Kart (USA)-image.jpg</image>
+		<rating>0.7117600000000001</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game id="136" source="theGamesDB.net">
+		<path>./Super Mario World (USA).zip</path>
+		<name>Super Mario World</name>
+		<desc>Mario’s off on his biggest adventure ever, and this time he’s brought along a friend.  Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again.  Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser’s castle.
+
+Use Mario’s new powers and Yoshi’s voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps.  Climb mountains and cross rivers, and descend into subterranean depths.  Destroy the seven Koopa castles and find keys to gain entrance to hidden levels.  Discover more warps and thrilling bonus worlds than ever before!
+
+Mario’s back, and this time he’s better than ever!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario World (USA)-image.jpg</image>
+		<rating>0.7517199999999999</rating>
+		<releasedate>19901121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game id="232" source="theGamesDB.net">
+		<path>./Super Mario RPG - Legend of the Seven Stars (USA).zip</path>
+		<name>Super Mario RPG: Legend of the Seven Stars</name>
+		<desc>Mario returns in this incredible new role-playing adventure! His latest rival is Smithy, a menacing creature who causes fear and treachery in the Mushroom Kingdom. Mario must recover seven stars and repair the Star Road before he can make his way to Bowser's castle for a final confrontation with Smithy. Powerful weapons, sinister spells and other useful items help Mario to complete his harrowing journey. New friends and old allies support him along the way. Even Bowser lends a hand!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario RPG - Legend of the Seven Stars (USA)-image.jpg</image>
+		<rating>0.7692300000000001</rating>
+		<releasedate>19960513T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game id="137" source="theGamesDB.net">
+		<path>./Super Mario World 2 - Yoshi's Island (USA).zip</path>
+		<name>Super Mario World 2: Yoshi's Island</name>
+		<desc>The Evil Magikoopa, Kamek, is out to kidnap Baby Mario!  In this sequel to Super Mario World, you play as Yoshi.  Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek’s clever traps and evil minions.  Enjoy the various backgrounds of the rich and vibrant locales of Yoshi’s Island as you race to complete your quest.
+
+Is Yoshi up to the momentous task at hand?  Help him toss his eggs, manipulate unique objects and solve puzzling situations!  When in doubt, don’t be afraid to try EVERYTHING!!
+
+* 16 megs of memory provide 6 worlds - each with 8 stages!
+* Morphmation delivers powerful special effects - scaling, rotating, and 360 degree scrolling.
+* Huge characters and even bigger bosses require quick thinking!
+* Battery back-up to save your progress.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario World 2 - Yoshi's Island (USA)-image.jpg</image>
+		<rating>0.775</rating>
+		<releasedate>19951004T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game id="188" source="theGamesDB.net">
+		<path>./Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).zip</path>
+		<name>Teenage Mutant Ninja Turtles IV: Turtles In Time</name>
+		<desc>Sunday evening. You're sitting around the sewer watching your main reported, April O'Neil do a live remote from the Statue of Liberty. Then it happens. A humungoso flying android screams out of the sky and rips Lady Liberty from her foundation, sending hundreds of freaked out tourists into the harbor below. "No way!" cries Raphael. "Way," replies Donatello. And the crazy quantum chase is on!
+Journey through ten levels of enormous arcade graphics, the largest and craziest talking Turtles ever with eons of bodacious battlegrounds, from prehistoric to futuristic galaxies. To prepare for the toughest Shred-heads you've ever seen, try the Versus mode, a Turtle-on-Turtle combat arena that finally proves who's the mightiest mutant of all. Also test your slice-em-up speed in the Time Trials mode to find out how fast you can clear three courses.
+Get ready for the 3-D jab and toss that sends enemies flying right in your face. Mondo body slams and pizza power bonuses make you more Turtle than ever before. You better believe you're going to need it. Shredder's out for Turtle hide. And he's got all the time in the world to get it.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)-image.png</image>
+		<rating>0.66667</rating>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="299" source="theGamesDB.net">
+		<path>./Super Metroid (Japan, USA) (En,Ja).zip</path>
+		<name>Super Metroid</name>
+		<desc>Take on a legion of Space Pirates and a new Metroid force as you forge into the covert underworld of Planet Zebes!  It’s up to you and Samus to recapture the long-surviving Metroid hatchling before evil hands unleash its energy.
+
+An army of ominous creatures are poised for battle at every turn of Zebes’ twisted, threatening passageways… including the menacing Ridley and the great lizard Kraid.  Knock down enemies with a killer somersault and swing on an electric beam through narrow passageways!  They’re no match for you and Samus… but wait!  It seems the Mother Brain has returned…</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Metroid (Japan, USA) (En,Ja)-image.jpg</image>
+		<rating>0.80833</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="2825" source="theGamesDB.net">
+		<path>./Mortal Kombat 3 (USA).zip</path>
+		<name>Mortal Kombat 3</name>
+		<desc>Fed up with continuous losses in tournament battle, Shao Kahn, who had lost to Liu Kang in the Outworld tournament, enacts a 10,000 year-old plan. He would have his Shadow Priests, led by Shang Tsung, revive his former Queen Sindel, who unexpectedly died at a young age. However, she wouldn't be revived in the Outworld. She would be resurrected in the Earthrealm. This would allow Shao Kahn to cross the boundary lines and reclaim his queen.
+When Sindel is reincarnated in Earthrealm, Shao Kahn reaches across the dimensions to reclaim her. As a consequence of his action, the Earthrealm becomes a part of the Outworld, instantly stripping billions of their souls. Only a few are spared, as Raiden protects their souls. He tells them that Shao Kahn must be stopped, but he cannot interfere; due to his status, he has no power in Outworld, and Earthrealm is partially merged with Outworld.
+Shao Kahn has unleashed extermination squads to roam throughout the Earthrealm and kill any survivors. Also, Raiden's protection only extends to the soul, not to the body, so his chosen warriors have to fight the extermination squads and repel Shao Kahn. Eventually with his final defeat, every human on Earthrealm comes back.
+Mortal Kombat 3 follows Mortal Kombat II and shares continuity with both Ultimate Mortal Kombat 3 and Mortal Kombat Trilogy which were both updates of this game. The next new game in the series was Mortal Kombat 4.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mortal Kombat 3 (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Williams</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game id="3285" source="theGamesDB.net">
+		<path>./Ultimate Mortal Kombat 3 (USA).zip</path>
+		<name>Ultimate Mortal Kombat 3</name>
+		<desc>Ultimate Mortal Kombat 3 combines the best of all the Mortal Kombats into a single cartridge. 23 playable characters are immediately available, such as Reptile, Cyrax, Scorpion, Sub-Zero, Jax, Katana, Sonya, and more. There are two bosses that are unlockable, as well as additional characters.
+
+There is a variety of new levels, some of which are interactive. Characters can uppercut someone, causing them to hit the ground hard and crash through to the bottom floor, or they can knocked someone off a bridge, landing in a pit of spikes.
+
+Players can go against the computer one-on-one, two-on-two, or take part in the 8-fighter tournament.
+
+The DS version has a wireless one-one-one multiplayer mode and includes the Puzzle Kombat mini-game from Mortal Kombat: Deception.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Ultimate Mortal Kombat 3 (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19961001T000000</releasedate>
+		<developer>Avalanche Software</developer>
+		<publisher>Williams</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game id="7624" source="theGamesDB.net">
+		<path>./Spider-Man &amp; Venom - Separation Anxiety (USA).zip</path>
+		<name>Spider-Man &amp; Venom: Separation Anxiety</name>
+		<desc>Parting is such sweet sorrow! Venom has been violently split from his living costume, spawning five deadly alien Symbiotes. In fierce two-player action, Venom joins forces with his arch-enemy, Spider-Man, to face the new strain of evil brought to life by chilling, computer-rendered graphics. Between the merciless Jury and awesome allies like Ghost Rider and Daredevil, Venom's out to part his Symbiote offspring from their newfound life!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Spider-Man &amp; Venom - Separation Anxiety (USA)-image.png</image>
+		<rating>0.5</rating>
+		<releasedate>19951101T000000</releasedate>
+		<developer>Software Projects</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Contra III - The Alien Wars (U) [t1].zip</path>
+		<name>Contra III: The Alien Wars</name>
+		<desc>Welcome to 2636, the year the Notorious One gets even, with an unprecendented alien onsalught orchestrated to push 16-bit technology and its commandos to their ultimate reaches.
+
+Plunge through a molten hot massacre on a high speed voyage to the guts of the archenemy alien. Scope out the side and top perspectives and backgrounds that do a 360 to engulf you in 3-D sensation.
+
+Pick off solar slimedogs like the Mutant Megasquitos and the Psycho Cyclers while you scale over walls, swing from girders and ropes, hitch rides on a missile, whatever it takes. Sweat through six gut splitting stages, including the Battle of the Blazing Sky and the Mucho Grande Badlands.
+The graphics are so real the explosions will nearly knock you off your feet. And the Boss Enemies are so gigantic, your screen can hardly hold them. You'll need to wrap both hands around artillery powerful enough to make today's weapons look like squirt guns. The Contra legacy is alive and dangerous!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Contra III - The Alien Wars (U) [t1]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920406T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Super Saiya Densetsu (J) (V1.1) [T-Eng0.99Final_DragonballZ Translations].zip</path>
+		<name>Dragon Ball Z: Super Saiya Densetsu</name>
+		<desc>This is where the legend of Super Saiya starts. The strongest man in the universe, Son Goku, fights against the terrible threats which threatens our world. Goku's blood is burning!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Dragon Ball Z - Super Saiya Densetsu (J) (V1.1) [T-Eng0.99Final_DragonballZ Translations]-image.png</image>
+		<releasedate>19920125T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+</gameList>
