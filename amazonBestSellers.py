@@ -42,11 +42,12 @@ for item in items:
 connection.commit()
 
 with open('AmazonItems.txt', 'w') as f:
-    for item in items:
-        links = item.find_all('a')
-        f.write(links[0].find_all('div')[1].string.strip() + "\n")  # Item name
-        f.write(links[1]['title'] + "\n")  # Review score
-        if item.find(class_="a-size-base a-color-price") is not None:
-            f.write(item.find(class_="a-size-base a-color-price").string + "\n")    # Price
-        f.write("https://www.amazon.com" + item.find('a')['href'] + "\n")  # Link
+    cursor.execute("SELECT * FROM items")
+    result = cursor.fetchall()
+    
+    for item in result:
+        f.write(item[1] + "\n")  # Item name
+        f.write(item[2] + "\n")  # Review score
+        f.write(item[3] + "\n")  # Price
+        f.write(item[4] + "\n")  # Link
         f.write("\n")
