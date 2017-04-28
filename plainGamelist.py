@@ -38,11 +38,13 @@ for game in games:
     playersstr = game.players.string if game.players is not None and game.players.string is not None else ""
     pathstr = game.path.string if game.path is not None and game.path.string is not None else ""
     imagestr = game.image.string if game.image is not None and game.image.string is not None else ""
+    idstr = game['id'] if 'id' in game.attrs else ""
+    sourcestr = game['source'] if 'source' in game.attrs else ""
     
     sql_command = """INSERT OR IGNORE INTO games (game_number, name, desc, rating, releasedate, developer, publisher, genre, players, path, image, id, source)
     VALUES (NULL, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);"""
     
-    cursor.execute(sql_command, (namestr, descstr, ratingstr, releasedatestr, developerstr, publisherstr, genrestr, playersstr, pathstr, imagestr, 0, ""))
+    cursor.execute(sql_command, (namestr, descstr, ratingstr, releasedatestr, developerstr, publisherstr, genrestr, playersstr, pathstr, imagestr, idstr, sourcestr))
 
 connection.commit()
 
