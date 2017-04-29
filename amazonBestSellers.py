@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import sqlite3
 from os import remove
+import csv
 
 remove("amazonBestSellers.db")
 connection = sqlite3.connect("amazonBestSellers.db")
@@ -41,13 +42,20 @@ for item in items:
 
 connection.commit()
 
-with open('AmazonItems.txt', 'w') as f:
-    cursor.execute("SELECT * FROM items")
+with open('AmazonItems.csv', 'w', newline='') as f:
+    fileWriter = csv.writer(f)
+    cursor.execute("SELECT rank, name, reviewscore, price, link FROM items")
     result = cursor.fetchall()
     
+    fileWriter.writerow(("Rank", "Name", "Review Score", "Price", "Link"))
     for item in result:
-        f.write(item[1] + "\n")  # Item name
-        f.write(item[2] + "\n")  # Review score
-        f.write(item[3] + "\n")  # Price
-        f.write(item[4] + "\n")  # Link
-        f.write("\n")
+        fileWriter.writerow(item)
+
+with open('AmazonItems.csv', 'r', newline='') as csvf:
+    fileReader = csv.reader(csvf)
+    next(fileReader)  # Skipping column name line
+
+    with open('AmazonItems.txt', 'w') as txtf:
+        for row in fileReader:
+            txtf.write("\n".join(row[1:]))  # Leaving out rank
+            txtf.write("\n\n")
