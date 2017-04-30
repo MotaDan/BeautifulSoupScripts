@@ -7,6 +7,7 @@ tphsoup = BeautifulSoup(r.text, 'lxml')
 
 draughtList = tphsoup.find(id='pu3025')
 
+# Wrting out the draught list to a csv file as one row.
 with open('draughtList.csv', 'w', newline='') as f:
     fileWriter = csv.writer(f)
     
@@ -16,6 +17,7 @@ with open('draughtList.csv', 'w', newline='') as f:
     
     fileWriter.writerow(beers)
     
+# Reading in from the csv and converting to the txt version.
 with open('draughtList.csv', 'r', newline='') as f:
     fileReader = csv.reader(f)
 
