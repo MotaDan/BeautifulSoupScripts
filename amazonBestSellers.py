@@ -1,11 +1,15 @@
 from bs4 import BeautifulSoup
 import requests
 import sqlite3
-from os import remove
+from os import remove, path
 import csv
 
-remove("amazonBestSellers.db")
-connection = sqlite3.connect("amazonBestSellers.db")
+databaseName = "amazonBestSellers.db"
+# Deleting the previous database so I don't have duplicate entries. I don't care what the top 20 was yesterday.
+if path.isfile(databaseName):
+    remove(databaseName)
+    
+connection = sqlite3.connect(databaseName)
 cursor = connection.cursor()
 
 sql_command = """
@@ -23,8 +27,10 @@ cursor.execute(sql_command)
 r = requests.get('https://www.amazon.com/gp/bestsellers/wireless/ref=sv_cps_6')
 asoup = BeautifulSoup(r.text, 'lxml')
 
+# zg_itemImmersion is the tag that contains all the data on an item.
 items = asoup.find_all('div', class_="zg_itemImmersion")
 
+# Scrapping the item information and adding it to the database.
 for item in items:
     wrapper = item.find('div', class_='zg_itemWrapper')
     links = wrapper.find_all('a')
@@ -42,6 +48,7 @@ for item in items:
 
 connection.commit()
 
+# Writing the items information in a csv file.
 with open('AmazonItems.csv', 'w', newline='') as f:
     fileWriter = csv.writer(f)
     cursor.execute("SELECT rank, name, reviewscore, price, link FROM items")
@@ -51,6 +58,7 @@ with open('AmazonItems.csv', 'w', newline='') as f:
     for item in result:
         fileWriter.writerow(item)
 
+# Reading the information from the csv file and placing it in a text file.
 with open('AmazonItems.csv', 'r', newline='') as csvf:
     fileReader = csv.reader(csvf)
     next(fileReader)  # Skipping column name line
