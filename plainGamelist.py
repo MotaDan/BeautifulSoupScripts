@@ -27,6 +27,7 @@ soup = BeautifulSoup(open("gamelist.xml"), "xml")
 
 games = soup.find_all('game')
 
+# Getting the information for each game and storing it in the database.
 for game in games:
     namestr = game.find('name').string if game.find('name') is not None and game.find('name').string is not None else ""
     descstr = game.desc.string if game.desc is not None and game.desc.string is not None else ""
@@ -52,6 +53,7 @@ cursor.execute("SELECT name FROM games")
 result = cursor.fetchall()
 result.sort()
 
+# Outputing the number of games and all the names to a txt file.
 with open("plain_gamelist.txt", 'w') as f:
     cursor.execute("SELECT Count(*) FROM games")
     f.write(str(cursor.fetchone()[0]) + "\n")

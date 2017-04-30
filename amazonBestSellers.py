@@ -67,3 +67,5 @@ with open('AmazonItems.csv', 'r', newline='') as csvf:
         for row in fileReader:
             txtf.write("\n".join(row[1:]))  # Leaving out rank
             txtf.write("\n\n")
+
+connection.close()
