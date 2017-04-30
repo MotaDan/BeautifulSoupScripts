@@ -15,6 +15,7 @@ cursor = connection.cursor()
 sql_command = """
 CREATE TABLE if not exists items ( 
 item_number INTEGER PRIMARY KEY, 
+category TEXT, 
 name TEXT, 
 reviewscore TEXT, 
 price FLOAT, 
@@ -24,34 +25,41 @@ unique (name, reviewScore, price, link, rank));"""
 
 cursor.execute(sql_command)
 
-r = requests.get('https://www.amazon.com/gp/bestsellers/wireless/ref=sv_cps_6')
-asoup = BeautifulSoup(r.text, 'lxml')
+pages = ('https://www.amazon.com/gp/bestsellers/wireless/ref=sv_cps_6', 
+         'https://www.amazon.com/Best-Sellers-Cell-Phones-Accessories-Unlocked/zgbs/wireless/2407749011/ref=zg_bs_nav_cps_1_cps', 
+         'https://www.amazon.com/Best-Sellers-Cell-Phones-Accessories-Phone-Cases-Holsters-Clips/zgbs/wireless/2407760011/ref=zg_bs_nav_cps_2_2407749011')
 
-# zg_itemImmersion is the tag that contains all the data on an item.
-items = asoup.find_all('div', class_="zg_itemImmersion")
-
-# Scrapping the item information and adding it to the database.
-for item in items:
-    wrapper = item.find('div', class_='zg_itemWrapper')
-    links = wrapper.find_all('a')
-    namestr = links[0].find_all('div')[1].string.strip()
-    reviewscorestr = links[1]['title']
-    pricestr = ""
-    if wrapper.find(class_="a-size-base a-color-price") is not None:
-        pricestr = wrapper.find(class_="a-size-base a-color-price").string
-    linkstr = "https://www.amazon.com" + wrapper.find('a')['href']
-    rankstr = item.find('span', class_='zg_rankNumber').string.strip().rstrip('.')
+for page in pages:
+    r = requests.get(page)
+    asoup = BeautifulSoup(r.text, 'lxml')
     
-    sql_command = """INSERT INTO items (item_number, name, reviewscore, price, link, rank)
-    VALUES (NULL, ?, ?, ?, ?, ?);"""
-    cursor.execute(sql_command, (namestr, reviewscorestr, pricestr, linkstr, rankstr))
+    categorystr = asoup.find('span', class_="category").string
 
-connection.commit()
+    # zg_itemImmersion is the tag that contains all the data on an item.
+    items = asoup.find_all('div', class_="zg_itemImmersion")
+
+    # Scrapping the item information and adding it to the database.
+    for item in items:
+        wrapper = item.find('div', class_='zg_itemWrapper')
+        links = wrapper.find_all('a')
+        namestr = links[0].find_all('div')[1].string.strip()
+        reviewscorestr = links[1]['title']
+        pricestr = ""
+        if wrapper.find(class_="a-size-base a-color-price") is not None:
+            pricestr = wrapper.find(class_="a-size-base a-color-price").string
+        linkstr = "https://www.amazon.com" + wrapper.find('a')['href']
+        rankstr = item.find('span', class_='zg_rankNumber').string.strip().rstrip('.')
+        
+        sql_command = """INSERT INTO items (item_number, category, name, reviewscore, price, link, rank)
+        VALUES (NULL, ?, ?, ?, ?, ?, ?);"""
+        cursor.execute(sql_command, (categorystr, namestr, reviewscorestr, pricestr, linkstr, rankstr))
+
+    connection.commit()
 
 # Writing the items information in a csv file.
 with open('AmazonItems.csv', 'w', newline='') as f:
     fileWriter = csv.writer(f)
-    cursor.execute("SELECT rank, name, reviewscore, price, link FROM items")
+    cursor.execute("""SELECT rank, name, reviewscore, price, link FROM items WHERE category = 'Cell Phones & Accessories' ORDER BY rank""")
     result = cursor.fetchall()
     
     fileWriter.writerow(("Rank", "Name", "Review Score", "Price", "Link"))
