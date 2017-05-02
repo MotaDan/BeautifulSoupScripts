@@ -47,7 +47,7 @@ for page in pages:
         reviewscorestr = links[1]['title'] if len(links) > 1 else ""
         pricestr = ""
         if wrapper.find(class_="a-size-base a-color-price") is not None:
-            pricestr = wrapper.find(class_="a-size-base a-color-price").string
+            pricestr = wrapper.find(class_="a-size-base a-color-price").string.lstrip('$')
         linkstr = "https://www.amazon.com" + wrapper.find('a')['href']
         rankstr = item.find('span', class_='zg_rankNumber').string.strip().rstrip('.')
         
