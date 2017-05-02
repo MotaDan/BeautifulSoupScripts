@@ -3,6 +3,7 @@ import requests
 import sqlite3
 from os import remove, path
 import csv
+import tablib
 
 databaseName = "amazonBestSellers.db"
 # Deleting the previous database so I don't have duplicate entries. I don't care what the top 20 was yesterday.
@@ -43,7 +44,7 @@ for page in pages:
         wrapper = item.find('div', class_='zg_itemWrapper')
         links = wrapper.find_all('a')
         namestr = links[0].find_all('div')[1].string.strip()
-        reviewscorestr = links[1]['title']
+        reviewscorestr = links[1]['title'] if len(links) > 1 else ""
         pricestr = ""
         if wrapper.find(class_="a-size-base a-color-price") is not None:
             pricestr = wrapper.find(class_="a-size-base a-color-price").string
@@ -55,6 +56,26 @@ for page in pages:
         cursor.execute(sql_command, (categorystr, namestr, reviewscorestr, pricestr, linkstr, rankstr))
 
     connection.commit()
+
+cursor.execute("""SELECT category FROM items GROUP BY category ORDER BY item_number""")
+categories = cursor.fetchall()
+
+book = tablib.Databook()
+
+for category in categories:
+    cursor.execute("""SELECT rank, name, reviewscore, price, link FROM items WHERE category = ?ORDER BY rank""", category)
+    items = cursor.fetchall()
+    data = tablib.Dataset(title = category[0][:31])
+    data.headers = ["Rank", "Name", "Review Score", "Price", "Link"]
+    
+    for item in items:
+        data.append(item)
+    
+    book.add_sheet(data)
+    
+# Writing the items information to an excel file with multiple sheets
+with open('AmazonItems.xls', 'wb') as f:
+    f.write(book.xls)
 
 # Writing the items information in a csv file.
 with open('AmazonItems.csv', 'w', newline='') as f:
